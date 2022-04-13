@@ -2,20 +2,20 @@
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
-2. [Variables](#variables)
-3. [Functions](#functions)
-4. [Objects and Data Structures](#objects-and-data-structures)
-5. [Classes](#classes)
-6. [SOLID](#solid)
-7. [Testing](#testing)
-8. [Concurrency](#concurrency)
-9. [Error Handling](#error-handling)
-10. [Formatting](#formatting)
-11. [Comments](#comments)
-12. [Translation](#translation)
+1. [مقدمه](#introduction)
+2. [متغیرها](#variables)
+3. [توابع](#functions)
+4. [آبجکت ها و ساختار داده](#objects-and-data-structures)
+5. [کلاس ها](#classes)
+6. [قوانین SOLID](#solid)
+7. [تست](#testing)
+8. [همزمانی](#concurrency)
+9. [مدیریت خطاها](#error-handling)
+10. [قالب بندی](#formatting)
+11. [کامنت ها](#comments)
+12. [ترجمه](#translation)
 
-## Introduction
+## مقدمه
 
 ![Humorous image of software quality estimation as a count of how many expletives
 you shout when reading code](https://www.osnews.com/images/comics/wtfm.jpg)
@@ -43,7 +43,7 @@ shaped into its final form. Finally, we chisel away the imperfections when
 we review it with our peers. Don't beat yourself up for first drafts that need
 improvement. Beat up the code instead!
 
-## **Variables**
+## **متغیرها**
 
 ### Use meaningful and pronounceable variable names
 
@@ -227,7 +227,7 @@ function createMicrobrewery(name = "Hipster Brew Co.") {
 
 **[⬆ back to top](#table-of-contents)**
 
-## **Functions**
+## **توابع**
 
 ### Function arguments (2 or fewer ideally)
 
@@ -1829,7 +1829,7 @@ inventoryTracker.requestItems();
 
 **[⬆ back to top](#table-of-contents)**
 
-## **Testing**
+## **تست**
 
 Testing is more important than shipping. If you have no tests or an
 inadequate amount, then every time you ship code you won't be sure that you
@@ -2079,7 +2079,7 @@ getdata()
 
 **[⬆ back to top](#table-of-contents)**
 
-## **Formatting**
+## **قالب بندی**
 
 Formatting is subjective. Like many rules herein, there is no hard and fast
 rule that you must follow. The main point is DO NOT ARGUE over formatting.
